@@ -22,7 +22,9 @@ Differences between the `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js
 
 **b. Include a video of your working video doorbell**
 
-[Image Here] 
+The following selfie image was captured from my webcam while I was using it.
+
+[Image Here] (https://github.com/sas695/IDD-Fa19-Lab7/blob/master/Screen%20Shot%202019-10-24%20at%2010.22.21%20AM.png)
 
 
 ## Part C. Make it your own
