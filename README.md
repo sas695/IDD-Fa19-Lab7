@@ -18,9 +18,12 @@
 
 Differences between the `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js` code is compared in the following text file that was created using the 'diff' comand:
 
-[diff.txt] (
+[diff.txt] (https://github.com/sas695/IDD-Fa19-Lab7/blob/master/diff.txt)
 
 **b. Include a video of your working video doorbell**
+
+[Image Here] 
+
 
 ## Part C. Make it your own
 
