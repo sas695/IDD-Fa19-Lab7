@@ -12,7 +12,7 @@
 
 **a. Link to a video of your HelloYou sketch running.**
 
-[Video Here] (
+[Video Here] (https://github.com/sas695/IDD-Fa19-Lab7/blob/master/light_clicker.mov)
 
 ## Part B. Web Camera
 
