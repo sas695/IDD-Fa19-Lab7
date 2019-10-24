@@ -1,6 +1,6 @@
 # Video Doorbell, Lab 7
 
-*A lab report by John Q. Student*
+*A lab report by Samson Schirmer*
 
 ### In This Report
 
@@ -15,6 +15,10 @@
 ## Part B. Web Camera
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
+
+Differences between the `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js` code is compared in the following text file that was created using the 'diff' comand:
+
+[diff.txt] (
 
 **b. Include a video of your working video doorbell**
 
