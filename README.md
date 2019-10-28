@@ -34,3 +34,7 @@ The following selfie image was captured from my webcam while I was using it.
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
 **b. Upload a video of your working modified project**
+
+For this part, I switched the USB source from the webcam to my MacBook Air's camera via the photobooth app.
+
+[Video Here] (https://github.com/sas695/IDD-Fa19-Lab7/blob/master/IMG_2798.mov)
